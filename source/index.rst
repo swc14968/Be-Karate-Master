@@ -3,17 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Be Karate Master documentation
-==============================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+《独立空手道手册》
+=============
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 《独立空手道手册》
 
    history/index
    karate/list
